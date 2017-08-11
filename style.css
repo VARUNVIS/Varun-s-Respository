@@ -1,4 +1,11 @@
-nav{
-  background-color: #ADD8E6;
-  text-color: #000000;
+li {
+  float: left;
 }
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+  
+
