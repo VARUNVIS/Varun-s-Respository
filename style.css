@@ -2,6 +2,15 @@ body {
   background-color: #fa8d58;
 }
 
+h1 {
+  font-family: sans-serif;
+  color: #293a48;
+}
+
+p {
+  font-family: sans-serif;
+  color: #293a48
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -19,6 +28,7 @@ li a {
   color: #C0C0C0;
   padding: 15px 17px;
   text-decoration: none;
+  font-family: sans-serif;
 }
 
 li a:hover {
