@@ -27,12 +27,14 @@ li a:hover {
 
 .active {
   background-color: #e64d59;
-
-
-  
-
-
-  
-
-  
-
+}
+ 
+img {
+  float: right;
+  height: 310px;
+  width: 250px;
+  margin: 20px;
+  border-color: #44d4f9;
+  border-width: 8px;
+  border-style: solid;
+}
