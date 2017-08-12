@@ -38,8 +38,9 @@ li a:hover {
 }
 
 img {
-  height: 400px;
-  width: 350px
+  float: right;
+  height: 570px;
+  width: 520px
   margin: 10px;
   border-width: 8px;
   border-style: solid;
