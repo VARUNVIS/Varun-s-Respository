@@ -36,5 +36,8 @@ li a:hover {
 .active {
   background-color: #e64d59;
 }
- 
+
+img {
+  height: 400px;
+  width: 350px
 
