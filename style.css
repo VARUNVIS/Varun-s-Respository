@@ -40,10 +40,10 @@ li a:hover {
 img {
   height: 400px;
   width: 350px
-  border-color: #95e0fe;
   margin: 10px;
   border-width: 8px;
   border-style: solid;
   border-radius: 50px;
+  border-color: #95e0fe;
 }
 
