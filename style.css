@@ -4,10 +4,12 @@ body {
 
 h1 {
   color: #293a48;
+  font-family: sans-serif;
 }
 
 p {
-  color: #293a48
+  color: #293a48;
+  font-family: sans-serif;
 }
 
 ul {
