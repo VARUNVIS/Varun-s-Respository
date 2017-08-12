@@ -3,13 +3,12 @@ body {
 }
 
 h1 {
-  font-family: sans-serif;
   color: #293a48;
 }
 
 p {
-  font-family: sans-serif;
   color: #293a48
+}
 
 ul {
   list-style-type: none;
