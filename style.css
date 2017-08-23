@@ -39,6 +39,10 @@ li a:hover {
   background-color: #e64d59;
 }
 
+ul.normalList {
+  font-family: sans-serif;
+}
+
 image1 {
   float: right;
   height: 570px;
