@@ -61,7 +61,12 @@ img {
   border-color: #95e0fe;
 }
 
-Image {
+image1 {
+  float: left;
+  border-style: none;
+}
+
+image2 {
   float: left;
   border-style: none;
 }
