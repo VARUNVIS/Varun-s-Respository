@@ -37,6 +37,17 @@ html>
                     I feel that ideally, the data on the chart should be presented in survey format (seen in picture below). 
                     and it would be better if the results automatically showed after you take the survey (similarly to the "Harry
                     Potter House Quiz").</p>
+                    
+                    <p>The set of basic rules for survey algoritm will be:</p>
+                    <ul>
+                      <li>Have two values, "WazePoints" and "GoogleMapsPoints"</li>
+                      <li>For every answer picked that has a feature which fits for both Google Maps and Waze, add 1 to "WazePoints" and "GoogleMapsPoints".</li>
+                      <li>For every answer picked that has a feature which fits for only Waze, add 1 to "WazePoints".</li>
+                      <li>For every answer picked that has a feature which fits for only Google Maps, add 1 to "GoogleMapsPoints".</li>
+                      <li>After the chosen answers are submitted, if "WazePoints" has a greater value than "GoogleMapsPoints", say to use Waze for navigation.</li>
+                      <li>After the chosen answers are submitted, if "GoogleMapsPoints" has a greater value than "WazePoints", say to use Google Maps for navigation.</li>
+                      <li>After the chosen answers are submitted, if "GoogleMapsPoints" and "WazePoints" have the same value, say that either apps is good for your needs</li>
+                    </ul>
                                       
                       <img src="IMG_0786.PNG" class="image5" alt="Concept Map Survey">
                                                                   
