@@ -52,8 +52,8 @@ image1 {
 
 image2 {
   float: right;
-  height: 570px;
-  width: 590px;
+  height: 300px;
+  width: 320px;
   margin: 10px;
   border-width: 8px;
   border-style: solid;
@@ -61,7 +61,7 @@ image2 {
   border-color: #95e0fe;
 }
 
-image3 {
+image4 {
   float: left;
   height: 200px;
   width: 300px;
