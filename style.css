@@ -50,7 +50,7 @@ ul.normalList li{
   list-style-type: disc;
 }
 
-img {
+image1 {
   float: right;
   height: 570px;
   width: 520px;
@@ -61,13 +61,35 @@ img {
   border-color: #95e0fe;
 }
 
-image1 {
+image3 {
+  float: right;
+  height: 570px;
+  width: 520px;
+  margin: 10px;
+  border-width: 8px;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: #95e0fe;
+}
+
+image3 {
+  float: right;
+  height: 570px;
+  width: 520px;
+  margin: 10px;
+  border-width: 8px;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: #95e0fe;
+}
+
+image4 {
   float: left;
   margin: 10px;
   border-style: none;
 }
 
-image2 {
+image5 {
   float: left;
   margin: 10px;
   border-style: none;
