@@ -51,6 +51,17 @@ image1 {
 }
 
 image2 {
+  float: left;
+  height: 300px;
+  width: 320px;
+  margin: 10px;
+  border-width: 8px;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: #95e0fe;
+}
+
+image3 {
   float: right;
   height: 300px;
   width: 320px;
