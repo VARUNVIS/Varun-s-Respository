@@ -42,6 +42,7 @@ li a:hover {
 ul.normalList {
   font-family: sans-serif;
   background: none;
+  list-style-type: circle;
 }
 
 ul.normalList li{
