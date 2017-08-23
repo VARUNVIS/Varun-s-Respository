@@ -47,6 +47,7 @@ ul.normalList {
 
 ul.normalList li{
   background: none;
+  list-style-type: disc;
 }
 
 image1 {
