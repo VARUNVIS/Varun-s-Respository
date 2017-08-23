@@ -78,10 +78,15 @@ image4 {
   width: 300px;
   margin: 10px;
 }
-  
-  
 
-table, th, td {
+image5 {
+  float: left;
+  height 300px;
+  width: 170px;
+  margin: 10px;
+}
+  
+  table, th, td {
   border: 3px solid #000000;
 }
 
