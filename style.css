@@ -41,6 +41,11 @@ li a:hover {
 
 ul.normalList {
   font-family: sans-serif;
+  background: none;
+}
+
+ul.normalList li{
+  background: none;
 }
 
 image1 {
