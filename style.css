@@ -63,11 +63,13 @@ img {
 
 image1 {
   float: left;
+  margin: 10px;
   border-style: none;
 }
 
 image2 {
   float: left;
+  margin: 10px;
   border-style: none;
 }
  
