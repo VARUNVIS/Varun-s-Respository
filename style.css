@@ -39,7 +39,7 @@ li a:hover {
   background-color: #e64d59;
 }
 
-img {
+image1 {
   float: right;
   height: 570px;
   width: 520px;
@@ -50,7 +50,7 @@ img {
   border-color: #95e0fe;
 }
 
-img2 {
+image2 {
   float: right;
   height: 570px;
   width: 590px;
@@ -61,7 +61,7 @@ img2 {
   border-color: #95e0fe;
 }
 
-img3 {
+image3 {
   float: left;
   height: 200px;
   width: 300px;
